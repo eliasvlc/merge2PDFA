@@ -16,15 +16,12 @@ Este programa te permite combinar múltiples archivos PDF con un archivo PDF adi
 
 ### 📦 Dependencias de Python
 
-Instala las siguientes bibliotecas:
-
-pip install PyPDF2
-
-Si se ejecuta desde el propio codigo o desde el ejecutable .exe se debe tener en cuenta mantener en el mismo directorio que el archivo .py lo siguiente:
+Si se ejecuta desde el propio codigo .py se debe mantener en el mismo directorio que el archivo .py lo siguiente:
 
 - gsdll64.dll
 - gsdll64.lib
 - gswin64c.exe
 
-El ejecutable se encuentra en la siguiente direccion:
+El ejecutable .exe se encuentra en la siguiente direccion:
+
 - https://drive.google.com/drive/folders/1bzcrcuS0w3mK-gdIhvel4dYdp9WQbT_Q?usp=sharing
