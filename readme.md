@@ -25,3 +25,6 @@ Si se ejecuta desde el propio codigo o desde el ejecutable .exe se debe tener en
 - gsdll64.dll
 - gsdll64.lib
 - gswin64c.exe
+
+El ejecutable se encuentra en la siguiente direccion:
+- https://drive.google.com/drive/folders/1bzcrcuS0w3mK-gdIhvel4dYdp9WQbT_Q?usp=sharing
