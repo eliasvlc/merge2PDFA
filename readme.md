@@ -5,7 +5,7 @@ Este programa te permite combinar múltiples archivos PDF con un archivo PDF adi
 ## ✨ Funcionalidades
 
 - 📁 Selección de una carpeta con múltiples archivos PDF.
-- ➕ Selección de un PDF adicional que se añadirá a cada uno.
+- ➕ Selección de un PDF adicional que se añadirá a cada uno (simulando una caratula/portada).
 - 🔗 Unión automática: se genera un nuevo PDF que une el archivo original con el archivo adicional.
 - 🧾 Conversión de cada PDF combinado a **PDF/A** utilizando **Ghostscript**.
 - 🗑️ Eliminación automática de archivos temporales: solo se conservan los archivos finales en formato PDF/A.
